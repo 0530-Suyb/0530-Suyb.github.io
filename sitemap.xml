@@ -23,14 +23,14 @@
   </url>
   
   <url>
-    <loc>http://https//suyb-0530.gitee.io/blog/en/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://https//suyb-0530.gitee.io/blog/cn/Hexo-Theme-LiveMyLife/</loc>
     
     <lastmod>2020-04-16</lastmod>
     
   </url>
   
   <url>
-    <loc>http://https//suyb-0530.gitee.io/blog/cn/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://https//suyb-0530.gitee.io/blog/en/Hexo-Theme-LiveMyLife/</loc>
     
     <lastmod>2020-04-16</lastmod>
     
@@ -53,7 +53,7 @@
 
   <url>
     <loc>http://https//suyb-0530.gitee.io/blog</loc>
-    <lastmod>2021-04-10</lastmod>
+    <lastmod>2021-04-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -61,7 +61,7 @@
   
   <url>
     <loc>http://https//suyb-0530.gitee.io/blog/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2021-04-10</lastmod>
+    <lastmod>2021-04-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -70,7 +70,7 @@
   
   <url>
     <loc>http://https//suyb-0530.gitee.io/blog/categories/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2021-04-10</lastmod>
+    <lastmod>2021-04-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
